@@ -21,3 +21,6 @@ The original [OpenFlexure microscope](https://openflexure.org/) project provides
 Our contributions to this include a modified version of the epifluorescence setup to enhance access to the optics, introduce modular attachments and in-house built light sources to increase the spectral fidelity of a single system. 
 
 ---
+
+
+<img src="https://kallepallilab.files.wordpress.com/2021/11/photonics-logo-trans-tagline.png" alt="drawing1" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/university-of-glasgow.png" alt="drawing2" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/50648064147_f136084fee_o.jpeg" alt="drawing3" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/iddacyxk.jpeg" alt="drawing4" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/sitelogo_788779_en.jpeg" alt="drawing5" height="60"/>
