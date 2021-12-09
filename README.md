@@ -6,7 +6,7 @@ The repository contains all the files, modifications and updates to our project,
 ## **Contact Information**
 
 For further details, discussions and collabroations, please contact Dr Akhil Kallepalli\
-Email: Akhil.Kallepalli@glasgow.ac.uk\
+Email: Akhil.Kallepalli@glasgow.ac.uk
 
 ---
 
