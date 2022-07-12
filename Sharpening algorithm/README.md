@@ -1,4 +1,4 @@
-# README for a Z-stack Image Sharpening Algorithm
+# Z-stack Image Sharpening Algorithm
 
 ---
 
