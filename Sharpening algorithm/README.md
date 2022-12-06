@@ -4,8 +4,8 @@
 
 ## **Contact Information**
 
-For further details on the algorithm please contact Harriet Bishop.\
-Email: hattiebishop2@gmail.com (After Jun 2022)\
+For further details on the algorithm, please contact Ms Harriet Bishop.\
+Email: hattiebishop2@gmail.com\
 LinkedIn: www.linkedin.com/in/harrietbishop
 
 ---
