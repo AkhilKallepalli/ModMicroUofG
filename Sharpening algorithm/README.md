@@ -5,7 +5,7 @@
 ## **Contact Information**
 
 For further details on the algorithm please contact Harriet Bishop.\
-Email: 2313601b@student.gla.ac.uk (Before Jun 2022) / hattiebishop2@gmail.com (After Jun 2022)\
+Email: hattiebishop2@gmail.com (After Jun 2022)\
 LinkedIn: www.linkedin.com/in/harrietbishop
 
 ---
