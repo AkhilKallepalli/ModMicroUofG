@@ -19,4 +19,4 @@ Modular light (ModLight) sources can be integrated into complex systems for micr
 ---
 
 
-<img src="https://kallepallilab.files.wordpress.com/2021/11/university-of-glasgow.png" alt="drawing1" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/baoms_2020.jpeg" alt="drawing2" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/sitelogo_788779_en.jpeg" alt="drawing4" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2022/07/oshw.png" alt="drawing5" height="50"/>
+<img src="https://cdn.shopify.com/s/files/1/0697/7289/files/Picture1.png?height=628&pad_color=fff&v=1613715828&width=1200" alt="drawing1" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/baoms_2020.jpeg" alt="drawing2" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/sitelogo_788779_en.jpeg" alt="drawing4" height="50"/> <img src="https://kallepallilab.files.wordpress.com/2022/07/oshw.png" alt="drawing5" height="50"/>
