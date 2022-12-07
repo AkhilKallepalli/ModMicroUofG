@@ -1,5 +1,6 @@
 # ModLight 
-The repository contains all the files, modifications and updates to our project, Modular Light Sources (ModLight)
+The repository contains all the files, modifications and updates to our project, Modular Light Sources (ModLight). \
+Article accepted to [HardwareX](https://www.sciencedirect.com/journal/hardwarex), currently In Press. 
 
 ---
 
