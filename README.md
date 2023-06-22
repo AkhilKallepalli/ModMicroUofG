@@ -24,6 +24,18 @@
 
 # **Contents**
 
+## **Phase 1: [OpenFlexure microscope](https://openflexure.org/) and machine learning-enhanced classification** 
+
+The research adopts the OpenFlexure Delta Stage microscope (https://openflexure.org/) that allows motorised control and maximum stability of the samples when imaging. A Raspberry Pi camera is used for imaging the samples in a transmission-based illumination setup. The imaging data collected is catalogued and organised for classification using TensorFlow. Using visual interpretation, we have created subsets from amongst the samples to experiment for the best classification results. We found that by removing similar samples, the categorical accuracy achieved was 99.9% and 99.59% for the training and testing sets. Our research shows evidence of the efficacy of open source tools and methods. Future approaches will use improved resolution images for classification and other modalities of microscopy will be realised based on the OpenFlexure microscope.
+
+**Important Links**: 
+- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
+- [University of Glasgow Repository Access](http://dx.doi.org/10.5525/gla.researchdata.1149)
+- SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
+
+---
+---
+
 ## **ModLight: Modular light sources** 
 
 Modular light (ModLight) sources can be integrated into complex systems for microscopy, medical imaging, remote sensing, and so many more. Motivated by the need for affordable and open-access alternatives that are globally relevant, we have designed and shared light devices that use simple, off-the-shelf components. Red, green, blue, white and near-infrared LEDs are combined using mirrors and X-Cube prisms in novel devices. This modular nature allows portability and mounting flexibility. The ModLight suite can be used with any optical system that requires single- or multi-wavelength illumination such as bright-field and epifluorescence microscopes.
@@ -37,32 +49,21 @@ Modular light (ModLight) sources can be integrated into complex systems for micr
 ---
 ---
 
-## **Phase 1: [OpenFlexure microscope](https://openflexure.org/) and machine learning-enhanced classification** 
-
-...
-
-**Important Links**: 
-- [University of Glasgow Repository Access](http://dx.doi.org/10.5525/gla.researchdata.1149)
-- SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
-
----
----
-
 ## **Phase 2: Epifluorescence Microscopy** 
 
-...
+In collaboration with [Dr Jonathan Taylor](https://www.gla.ac.uk/schools/physics/staff/jonathantaylor/), the research led by Mr Robert Archibald investigated comparing a modular epifluorescence microscope with a standard Nikon Ti-Eclipse microscope. The results have shown that our results match the resolution and image sharpness as compared to a proprietary microscope, that latter costing many orders of the 3D printed microscopy system. 
 
-### **Hardware** 
+### ***Hardware*** 
 The original [OpenFlexure microscope](https://openflexure.org/) project provides a [basic microscope](https://openflexure.org/projects/microscope/) and an advanced [Delta Stage](https://openflexure.org/projects/deltastage/) microscope, capable of achieving small scale control and high-resolution imaging. The imaging can be done using either Raspberry Pi cameras or any advanced, imaging cameras traditionally used in microscopy. 
 
 Our contributions to this include a modified version of the epifluorescence setup to enhance access to the optics, introduce modular attachments and in-house built [ModLight](https://doi.org/10.1016/j.ohx.2022.e00385) sources to increase the spectral fidelity of a single system. 
 
-### **Sharpening Algorithm** 
+### ***Sharpening Algorithm*** 
 Image prossessing techniques are an essential step in data analysis, especially so when the image quality is degraded. This paper presents an iterative sharpening algorithm designed for use on the OpenFlexure Microscope, to bring z-stack images back into focus. Three different sharpness metrics are evaluated and the data needed to process these images, and establish the highest quality after image acquisition is available [here](https://github.com/AkhilKallepalli/ModMicroUofG/tree/a79b8e51664f305bbde2d7f3cc1418ee8469735c/Phase%202%20(Epifluorescence%20Microscope)/Sharpening%20algorithm). 
 
 **Important Links**: 
-- [University of Glasgow Repository Access](http://dx.doi.org/10.5525/gla.researchdata.1149)
-- SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
+- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%202%20(Epifluorescence%20Microscope))
+- Research article: **Under Preparation**
 
 ---
 ---
