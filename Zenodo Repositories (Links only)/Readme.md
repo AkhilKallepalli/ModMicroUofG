@@ -23,7 +23,9 @@ Biophotonics is becoming increasingly prominent in value and visibility. What wa
 
 <p align="center">
 <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/LED%20Modules.JPG"  width="400"> <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/Camera%20Modules.JPG"  width="400">
+</p>
 
+<p align="center">
 <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/Setup.JPG"  width="600">
 </p>
 
@@ -42,6 +44,12 @@ In this repository, you will find all the files needed to recreate the Pol-ModMi
 
 Plasmodium spp. are the protozoan parasites responsible for malaria. Plasmodium spp. synthesise a biocrystal, hemozoin, which can be observed under cross-polarised light. These birefringent crystals can be seen due to different refractive indices of the hemozoin crystal and red blood cells. Here, we present a polarised light modular microscopy (Pol-ModMicro) solution, complete with illumination sources and a robust imaging system to capture birefringence and identify the parasites. We achieve this by combining ModLight light sources with bespoke components designed for the OpenFlexure microscope to image blood smears. Further, a simple and robust algorithm capable of enhancing birefringence is presented. This solution provides image quality that is comparable to a substantially more expensive proprietary microscope. 
 
+<p align="center">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Pol-ModMicro/Hardware.png"  width="600"> 
+</p>
+
+
+
 ---
 
 ## Modular Light Sources for Microscopy and Beyond (ModLight)
@@ -49,5 +57,21 @@ Plasmodium spp. are the protozoan parasites responsible for malaria. Plasmodium 
 [Repository Access](https://zenodo.org/record/7385903)
 
 Modular light (ModLight) sources can be integrated into complex systems for microscopy, medical imaging, remote sensing, and so many more. Motivated by the need for affordable and open-access alternatives that are globally relevant, we have designed and shared light devices that use simple, off-the-shelf components. Red, green, blue, white and near-infrared LEDs are combined using mirrors and X-Cube prisms in novel devices. This modular nature allows portability and mounting flexibility. The ModLight suite can be used with any optical system that requires single- or multi-wavelength illumination such as bright-field and epifluorescence microscopes.
+
+<p align="center">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/ModLight/LED%20Assembly.png"  width="600">  
+</p>
+
+<p align="center">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/ModLight/Mirror-based%20Device.png"  width="600"> 
+</p>
+
+<p align="center">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/ModLight/XCube%20Device.png"  width="600"> 
+</p>
+
+<p align="center">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/ModLight/XCube%20and%20OpenFlexure.png"  width="600"> 
+</p>
 
 ---
