@@ -1,26 +1,30 @@
 # **ModMicroUofG**
 
-**Mod**ular **Micro**scopy is an ongoing project to engineer low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
+<!-- <p align="center">
+<img src="" alt="drawing6" width="400"/>
+</p> -->
+
+**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
 
 ---
 
 ## *Contact Information*
 
-*For further details, discussions and collabroations, please contact Dr Akhil Kallepalli*\
+*For further details, discussions and collaborations, please contact Dr Akhil Kallepalli*\
 **Email**: Akhil.Kallepalli@glasgow.ac.uk
 
-*To learn more about our research, check out our lab website*\
+*To learn more about our research, check out the lab website*\
 **Website**: https://kallepallilab.com 
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" alt="drawing6" height="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" alt="Work in Progress Logo" height="200"/>
 </p>
 
 ---
 
 # **Contents**
 
-## **ModLight - Modular light sources for microscopy and beyond** 
+## **ModLight: Modular light sources** 
 
 Modular light (ModLight) sources can be integrated into complex systems for microscopy, medical imaging, remote sensing, and so many more. Motivated by the need for affordable and open-access alternatives that are globally relevant, we have designed and shared light devices that use simple, off-the-shelf components. Red, green, blue, white and near-infrared LEDs are combined using mirrors and X-Cube prisms in novel devices. This modular nature allows portability and mounting flexibility. The ModLight suite can be used with any optical system that requires single- or multi-wavelength illumination such as bright-field and epifluorescence microscopes.
 
@@ -33,7 +37,7 @@ Modular light (ModLight) sources can be integrated into complex systems for micr
 ---
 ---
 
-## **Phase 1 - [OpenFlexure microscope](https://openflexure.org/) and machine learning-enhanced classification** 
+## **Phase 1: [OpenFlexure microscope](https://openflexure.org/) and machine learning-enhanced classification** 
 
 ...
 
@@ -44,7 +48,7 @@ Modular light (ModLight) sources can be integrated into complex systems for micr
 ---
 ---
 
-## **Phase 2 - Epifluorescence Microscopy** 
+## **Phase 2: Epifluorescence Microscopy** 
 
 ...
 
@@ -63,14 +67,14 @@ Image prossessing techniques are an essential step in data analysis, especially 
 ---
 ---
 
-## **Phase 3 - Confocal Microscopy** 
+## **Phase 3: Confocal Microscopy** 
 
 ...
 
 ---
 ---
 
-## **Phase 4 - Structured Illumination Microscopy** 
+## **Phase 4: Structured Illumination Microscopy** 
 
 ...
 
