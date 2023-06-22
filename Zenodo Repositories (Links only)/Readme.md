@@ -21,7 +21,7 @@ This repository includes:
 
 Biophotonics is becoming increasingly prominent in value and visibility. What was predominantly an advanced field of research is now being included increasingly in undergraduate and postgraduate programmes. To increase biophotonics-related STEM awareness, we developed simple and inexpensive LEDs and a camera set-up that allows visualising the blood vessels beneath the skin. The kit uses inexpensive blue, green, red and near-infrared LEDs to show the absorption of shorter wavelengths and transmission in the longer wavelengths in the finger. As an outreach and educational tool, this kit will illustrate the potential of using light for diagnostics.
 
-<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/LED%20Modules.JPG"  width="600"> <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/Camera%20Modules.JPG"  width="600">
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/LED%20Modules.JPG"  width="400"> <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/Camera%20Modules.JPG"  width="400">
 
 <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Biophotonics%20for%20all/Setup.JPG"  width="600">
 
