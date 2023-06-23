@@ -6,16 +6,6 @@
 
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
 
----
-
-## *Contact Information*
-
-*For further details, discussions and collaborations, please contact Dr Akhil Kallepalli*\
-**Email**: Akhil.Kallepalli@glasgow.ac.uk
-
-*To learn more about our research, check out the lab website*\
-**Website**: https://kallepallilab.com 
-
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" alt="Work in Progress Logo" height="200"/>
 </p> 
@@ -68,14 +58,18 @@ Image prossessing techniques are an essential step in data analysis, especially 
 
 ## **Phase 3: Confocal Microscopy** 
 
-...
+<p align="center">
+<img src="https://static.wixstatic.com/media/2c9822_3c1ba3d0fdf341638be0a5224987d4bd~mv2_d_2048_2048_s_2.jpg/v1/fill/w_600,h_600,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/comingsoon.jpg" alt="Work in Progress Logo" height="200"/>
+</p> 
 
 ---
 ---
 
 ## **Phase 4: Structured Illumination Microscopy** 
 
-...
+<p align="center">
+<img src="https://static.wixstatic.com/media/2c9822_3c1ba3d0fdf341638be0a5224987d4bd~mv2_d_2048_2048_s_2.jpg/v1/fill/w_600,h_600,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/comingsoon.jpg" alt="Work in Progress Logo" height="200"/>
+</p> 
 
 ---
 ---
@@ -83,3 +77,14 @@ Image prossessing techniques are an essential step in data analysis, especially 
 <p align="center">
 <img src="https://kallepallilab.files.wordpress.com/2021/11/photonics-logo-trans-tagline.png" alt="drawing1" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/university-of-glasgow.png" alt="drawing2" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/50648064147_f136084fee_o.jpeg" alt="drawing3" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/iddacyxk.jpeg" alt="drawing4" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/sitelogo_788779_en.jpeg" alt="drawing5" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2022/07/oshw.png" alt="drawing6" height="60"/>
 </p>
+
+---
+---
+
+## *Contact Information*
+
+*For further details, discussions and collaborations, please contact Dr Akhil Kallepalli*\
+**Email**: Akhil.Kallepalli@glasgow.ac.uk
+
+*To learn more about our research, check out the lab website*\
+**Website**: https://kallepallilab.com 
