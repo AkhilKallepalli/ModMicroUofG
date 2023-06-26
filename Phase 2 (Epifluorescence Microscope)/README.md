@@ -1,8 +1,5 @@
 ## ModMicroUofG Epifluorescence Microscopy
 
-## !!! Updates Coming Soon !!!
-
-
 The repository contains all the files, modifications and updates to the epifluorescence microscopy set up within our **Mod**ular **Micro**scopy (ModMicroUofG) project
 
 The original project and microscope is adopted from the [OpenFlexure Project](https://openflexure.org/). Of the available modifications to the OpenFlexure microscope, we chose the [Delta Stage](https://openflexure.org/projects/deltastage/) version to modify as we are interested in reflection illumination and control over the filter combinations and light sources. 

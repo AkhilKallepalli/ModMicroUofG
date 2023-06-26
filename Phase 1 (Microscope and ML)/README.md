@@ -2,7 +2,7 @@
 
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
 
-Our first introduction to additive manufacturing-supported microscopy hardware was working with Mr Robert Archibald's project, using the OpenFlexure system 
+Our first introduction to additive manufacturing-supported microscopy hardware was working towards Mr Robert Archibald's project, using the OpenFlexure system for collecting brightfield images at high resolution (multiple magni)
 
 ## !!! Updates Coming Soon !!!
 
