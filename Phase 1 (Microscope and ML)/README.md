@@ -1,14 +1,25 @@
 # **ModMicroUofG**
 
+**Important Links**: 
+- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
+- [OPEN-BIOset Dataset](http://dx.doi.org/10.5525/gla.researchdata.1149)
+- SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
+---
+
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
 
-Our first introduction to additive manufacturing-supported microscopy hardware was working towards Mr Robert Archibald's project, using the OpenFlexure system for collecting brightfield images at high resolution (multiple magni)
+- Our first introduction to additive manufacturing-supported microscopy hardware was working towards Mr Robert Archibald's project, using the OpenFlexure system for collecting brightfield images at high resolution (using x40 and x100 objectives). The [OPEN-BIOset](http://dx.doi.org/10.5525/gla.researchdata.1149) dataset is openly accessible. 
 
-## !!! Updates Coming Soon !!!
+- With this data, we used machine learning algorithms to classify the images with a categorical accuracy of 99.59% (testing data). 
 
-The original project and microscope is adopted from the [OpenFlexure Project](https://openflexure.org/). Of the available modifications to the OpenFlexure microscope, we chose the [Delta Stage](https://openflexure.org/projects/deltastage/) version to modify as we are interested in reflection illumination and control over the filter combinations and light sources. 
+The hardware used in the research uses the [OpenFlexure](https://openflexure.org/) microscope, with the [Delta Stage](https://openflexure.org/projects/deltastage/) variant. 
 
-In order to optimise the light sources and excitation wavelengths, we removed the excitation filters in the setup and replaced it with a modular, in-house designed light source for wavelength control. Consequently, our modified filter setup allows multiple excitation-dichroic-emission filters combinations for modular imaging. 
+---
+---
+
+<p align="center">
+<img src="https://kallepallilab.files.wordpress.com/2021/11/university-of-glasgow.png" alt="drawing2" height="75"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/photonics-logo-trans-tagline.png" alt="drawing1" height="75"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/50648064147_f136084fee_o.jpeg" alt="drawing3" height="75"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/iddacyxk.jpeg" alt="drawing4" height="75"/> 
+</p>
 
 ---
 ---

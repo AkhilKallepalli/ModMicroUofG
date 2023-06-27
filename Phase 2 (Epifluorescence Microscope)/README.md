@@ -1,13 +1,28 @@
-## ModMicroUofG Epifluorescence Microscopy
+# **ModMicroUofG Epifluorescence Microscopy**
 
-The repository contains all the files, modifications and updates to the epifluorescence microscopy set up within our **Mod**ular **Micro**scopy (ModMicroUofG) project
+**Important Links**: 
+- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%202%20(Epifluorescence%20Microscope))
+- Research article: **Under Preparation**
+---
 
-The original project and microscope is adopted from the [OpenFlexure Project](https://openflexure.org/). Of the available modifications to the OpenFlexure microscope, we chose the [Delta Stage](https://openflexure.org/projects/deltastage/) version to modify as we are interested in reflection illumination and control over the filter combinations and light sources. 
+**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates for the epifluorescence microscope integrated with our bespoke light sources. 
 
-In order to optimise the light sources and excitation wavelengths, we removed the excitation filters in the setup and replaced it with a modular, in-house designed light source for wavelength control. Consequently, our modified filter setup allows multiple excitation-dichroic-emission filters combinations for modular imaging. 
 
-## Microscope Modifications
 
-## Filter Wheel Modifications
+---
+---
 
-## Modular Light Sources 
+<p align="center">
+<img src="https://kallepallilab.files.wordpress.com/2021/11/photonics-logo-trans-tagline.png" alt="drawing1" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/university-of-glasgow.png" alt="drawing2" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/50648064147_f136084fee_o.jpeg" alt="drawing3" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/iddacyxk.jpeg" alt="drawing4" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2021/11/sitelogo_788779_en.jpeg" alt="drawing5" height="60"/> <img src="https://kallepallilab.files.wordpress.com/2022/07/oshw.png" alt="drawing6" height="60"/>
+</p>
+
+---
+---
+
+## *Contact Information*
+
+*For further details, discussions and collaborations, please contact Dr Akhil Kallepalli*\
+**Email**: Akhil.Kallepalli@glasgow.ac.uk
+
+*To learn more about our research, check out the lab website*\
+**Website**: https://kallepallilab.com 
