@@ -3,11 +3,16 @@
 **Important Links**: 
 - [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%202%20(Epifluorescence%20Microscope))
 - Research article: **Under Preparation**
+
+**Modular Light Sources**
+- [Zenodo Repository](https://zenodo.org/record/7385903)
+- HardwareX Paper: [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1016/j.ohx.2022.e00385)
+
 ---
 
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates for the epifluorescence microscope integrated with our bespoke light sources. 
 
-
+...
 
 ---
 ---

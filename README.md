@@ -19,7 +19,7 @@
 The research adopts the OpenFlexure Delta Stage microscope (https://openflexure.org/) that allows motorised control and maximum stability of the samples when imaging. A Raspberry Pi camera is used for imaging the samples in a transmission-based illumination setup. The imaging data collected is catalogued and organised for classification using TensorFlow. Using visual interpretation, we have created subsets from amongst the samples to experiment for the best classification results. We found that by removing similar samples, the categorical accuracy achieved was 99.9% and 99.59% for the training and testing sets. Our research shows evidence of the efficacy of open source tools and methods. Future approaches will use improved resolution images for classification and other modalities of microscopy will be realised based on the OpenFlexure microscope.
 
 **Important Links**: 
-- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
+- [GitHub](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
 - [OPEN-BIOset Dataset](http://dx.doi.org/10.5525/gla.researchdata.1149)
 - SPIE Conference Proceeding: [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
 
@@ -31,7 +31,7 @@ The research adopts the OpenFlexure Delta Stage microscope (https://openflexure.
 Modular light (ModLight) sources can be integrated into complex systems for microscopy, medical imaging, remote sensing, and so many more. Motivated by the need for affordable and open-access alternatives that are globally relevant, we have designed and shared light devices that use simple, off-the-shelf components. Red, green, blue, white and near-infrared LEDs are combined using mirrors and X-Cube prisms in novel devices. This modular nature allows portability and mounting flexibility. The ModLight suite can be used with any optical system that requires single- or multi-wavelength illumination such as bright-field and epifluorescence microscopes.
 
 **Important Links**: 
-- [Zenodo Repository Access](https://zenodo.org/record/7385903)
+- [Zenodo Repository](https://zenodo.org/record/7385903)
 - HardwareX Paper: [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1016/j.ohx.2022.e00385)
 
 ***NOTE**: Files of the same version as on Zenodo and HardwareX paper availble through this [GitHub Folder](https://github.com/AkhilKallepalli/ModMicroUofG/tree/c88cae8ca496235c1b51023b1f2a8044d0d7d9a2/ModLight).* 
@@ -50,7 +50,7 @@ The original [OpenFlexure microscope](https://openflexure.org/) is adopted as th
 Image prossessing techniques are an essential step in data analysis, especially so when the image quality is degraded. This paper presents an iterative sharpening algorithm designed for use on the OpenFlexure Microscope, to bring z-stack images back into focus. Three different sharpness metrics are evaluated and the data needed to process these images, and establish the highest quality after image acquisition is available [here](https://github.com/AkhilKallepalli/ModMicroUofG/tree/a79b8e51664f305bbde2d7f3cc1418ee8469735c/Phase%202%20(Epifluorescence%20Microscope)/Sharpening%20algorithm). 
 
 **Important Links**: 
-- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%202%20(Epifluorescence%20Microscope))
+- [GitHub](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%202%20(Epifluorescence%20Microscope))
 - Research article: **Under Preparation**
 
 ---
