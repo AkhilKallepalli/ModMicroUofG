@@ -14,6 +14,10 @@
 
 The hardware used in the research uses the [OpenFlexure](https://openflexure.org/) microscope, with the [Delta Stage](https://openflexure.org/projects/deltastage/) variant. 
 
+<p align="center">
+<img src="https://www.spiedigitallibrary.org/ContentImages/Proceedings/11879/118790D/FigureImages/00010_PSISDG11879_118790D_page_5_1.jpg"  width="400">
+</p>
+
 ---
 ---
 
