@@ -12,7 +12,7 @@
 
 ---
 
-# **Contents Testing2**
+# **Contents**
 
 ## **Phase 1: [OpenFlexure microscope](https://openflexure.org/) and machine learning-enhanced classification** 
 
