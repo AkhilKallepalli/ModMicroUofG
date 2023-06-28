@@ -5,13 +5,11 @@
 - arXiv: [Polarised light modular microscopy (Pol-ModMicro) for identifying hemozoin crystals in Plasmodium](https://arxiv.org/abs/2304.13739)
 
 ---
+**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
 
-The repository contains all the files, modifications and updates to our project, Modular Light Sources (ModLight). \
-Article accepted to [HardwareX](https://www.sciencedirect.com/journal/hardwarex), currently In Press. 
+-  
 
----
-
-...
+-  
 
 ---
 ---
