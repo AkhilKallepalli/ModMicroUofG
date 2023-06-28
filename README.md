@@ -1,7 +1,7 @@
 # **ModMicroUofG**
 
 <p align="center">
-<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/fd289a8264aa1a56a4813fd3f8b676e8aaac845f/Images/GitHub%20Repo/ModMicro_20230628%20Status.png" alt="ModMicro Status Update" width="800"/>
+<img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/3e0fa2eb1bd7ecd0023f7e677077f00b084c2ab3/Images/GitHub%20Repo/ModMicro_20230628%20Status.png" alt="ModMicro Status Update" width="800"/>
 </p>
 
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
