@@ -6,9 +6,9 @@
 - SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
 ---
 
-**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
+**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. In phase 1, our research included building the Openflexure microscope system and investigating its feasibilty for (1) machine learning innovations and (2) feasibility for future applications and innovations. 
 
-- Our first introduction to additive manufacturing-supported microscopy hardware was working towards Mr Robert Archibald's project, using the OpenFlexure system for collecting brightfield images at high resolution (using x40 and x100 objectives). The [OPEN-BIOset](http://dx.doi.org/10.5525/gla.researchdata.1149) dataset is openly accessible. 
+- In this phase, we built a standard Openflexure microscope and generated a dataset for machine learning applications. The dataset of brightfield images at high resolution (using x40 and x100 objectives) is openly accessible as the [OPEN-BIOset](http://dx.doi.org/10.5525/gla.researchdata.1149). 
 
 - With this data, we used machine learning algorithms to classify the images with a categorical accuracy of 99.59% (testing data). 
 
