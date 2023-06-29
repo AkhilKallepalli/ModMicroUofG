@@ -1,7 +1,7 @@
 # **Modular Light Source (ModLight)**
 
 **Important Links**: 
-- [Zenodo Repository](https://zenodo.org/record/7385903)
+- [Zenodo](https://zenodo.org/record/7385903)
 - HardwareX Paper: [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1016/j.ohx.2022.e00385)
 
 ***NOTE**: Files of the same version as on Zenodo and HardwareX paper availble through this [GitHub Folder](https://github.com/AkhilKallepalli/ModMicroUofG/tree/c88cae8ca496235c1b51023b1f2a8044d0d7d9a2/ModLight).* 

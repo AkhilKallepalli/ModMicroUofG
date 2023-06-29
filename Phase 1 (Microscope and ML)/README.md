@@ -1,9 +1,9 @@
 # **ModMicroUofG**
 
 **Important Links**: 
-- [GitHub Repository](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
+- [GitHub](https://github.com/AkhilKallepalli/ModMicroUofG/tree/260d3f88ae4605c2fc237944587647aae78d652a/Phase%201%20(Microscope%20and%20ML))
 - [OPEN-BIOset Dataset](http://dx.doi.org/10.5525/gla.researchdata.1149)
-- SPIE Conference Proceeding, [Modular light sources for microscopy and beyond (ModLight)](https://doi.org/10.1117/12.2599435)
+- SPIE Conference Proceeding, [Open-source microscopic solution for classification of biological samples](https://doi.org/10.1117/12.2599435)
 ---
 
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. In phase 1, our research included building the Openflexure microscope system and investigating its feasibilty for (1) machine learning innovations and (2) feasibility for future applications and innovations. 
