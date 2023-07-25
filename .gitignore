@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Phase 2 (Epifluorescence Microscope)/.DS_Store
+Phase 2 (Epifluorescence Microscope)/Hardware/.DS_Store
