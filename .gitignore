@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 Phase 2 (Epifluorescence Microscope)/.DS_Store
 Phase 2 (Epifluorescence Microscope)/Hardware/.DS_Store
+.DS_Store
