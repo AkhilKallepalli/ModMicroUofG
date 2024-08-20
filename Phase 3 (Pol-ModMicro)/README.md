@@ -7,7 +7,7 @@
 ---
 **Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. 
 
-In collaboration with researchers at universities of Glasgow and Zurich, we developed modified parts for the Openflexure microscope to facilitate imaging with cross-polarised light. The application we pursued and shared through our preprint investigated mapping of hemozoin crystals in *Plasmodium spp.* parasites
+In collaboration with researchers at universities of Glasgow and Zurich, we developed modified parts for the Openflexure microscope to facilitate imaging with cross-polarised light. The application we pursued and shared through our preprint investigated mapping of hemozoin crystals in *Plasmodium spp.* parasites. 
 
 <p align="center">
 <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/74ba0dabfa10a5283e753e927dda39adbb5b2cfa/Images/Zenodo%20Repo/Pol-ModMicro/Hardware.png"  width="600"> 
