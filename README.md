@@ -4,7 +4,7 @@
 <img src="https://github.com/AkhilKallepalli/ModMicroUofG/blob/3e0fa2eb1bd7ecd0023f7e677077f00b084c2ab3/Images/GitHub%20Repo/ModMicro_20230628%20Status.png" alt="ModMicro Status Update" width="800"/>
 </p>
 
-**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. 
+**Mod**ular **Micro**scopy is an ongoing project, focusing on building low-cost and accessible hardware for realising standard and complex microscopic techniques. The repository contains all the files, modifications and updates. X
 
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" alt="Work in Progress Logo" height="200"/>
